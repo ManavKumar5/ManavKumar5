@@ -52,13 +52,13 @@ I specialize in transforming data into actionable insights, building intelligent
 | 📱 Google Play Sentiment Analysis | | 📈 TCS Stock Forecasting | 🎧 Customer Satisfaction Prediction |
 
 
-> Visit my [repositories](https://github.com/Manavkumar14?tab=repositories) to see the code and results!
+> Visit my [repositories](https://github.com/ManavKumar5?tab=repositories) to see the code and results!
 
 ---
 
 ## 📬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kumarmannavv)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manavkumar14)
 
 ---
