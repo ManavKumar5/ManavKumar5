@@ -1,6 +1,6 @@
 <h1 align="center"> Namaste, I'm Manav!</h1>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNjc2h3MHp4Y2pwMW5sMmcxZzBpbHB5YnF0YWdrOGI1eWowZDg1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDMHgvx8N9U7UUlczQ/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNjc2h3MHp4Y2pwMW5sMmcxZzBpbHB5YnF0YWdrOGI1eWowZDg1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDMHgvx8N9U7UUlczQ/giphy.gif" width="150"/>
 </p>
 
 <h3 align="center">💡 Data Analytics Enthusiast | 🤖 AI-Driven Data Scientist | 🧠 Generative AI Explorer</h3>
