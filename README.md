@@ -37,7 +37,7 @@ I specialize in transforming data into actionable insights, building intelligent
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
-![Neural Network](https://img.shields.io/badge/Neural%20Network-00C853?style=for-the-badge&logo=ai&logoColor=white)
+![Neural Network](https://img.shields.io/badge/Neural%20Network-1E1E1E?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 **Generative AI**
