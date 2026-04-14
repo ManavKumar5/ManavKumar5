@@ -21,23 +21,12 @@
 
 ## About Me
 
-I'm a data analyst and AI enthusiast from Mumbai with 10+ months of hands-on industry experience at Ai Variant. I work across the full data stack — from SQL querying and ETL pipelines to Power BI dashboards and NLP-driven analysis. Recently I've been building with LLMs and RAG systems, including a live AI sales intelligence app powered by Llama 3.3 (70B).
+I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experience across the full data stack — from SQL querying and ETL pipelines to Power BI dashboards and NLP-driven analysis. Recently I've been building with LLMs and RAG systems, including a live AI sales intelligence app powered by Llama 3.3 (70B).
 
-- 🔭 Currently working as **Data & NLP Analyst at TrendLytics**
+- 🔭 Currently **open to Data Analyst / NLP / AI roles**
 - 🌱 Exploring **LangChain agents, vector databases (Pinecone / Weaviate), and production RAG**
 - 💡 I love turning messy data into decisions stakeholders actually use
 - 📫 Reach me at **manavrameshkumar@gmail.com**
-
----
-
-## 🏆 Key Impact
-
-| Metric | Result |
-|---|---|
-| Records analysed | 300,000+ |
-| Manual reporting reduction | 20% |
-| Campaign success insight | 74% higher success rate for campaigns < 60 days |
-| Funding tracked (Kickstarter dashboard) | $896K |
 
 ---
 
@@ -50,7 +39,7 @@ I'm a data analyst and AI enthusiast from Mumbai with 10+ months of hands-on ind
 
 ### Data Analyst Intern — Ai Variant, Mumbai
 **Aug 2024 – May 2025 · 10 months**
-- Built interactive Power BI and Tableau dashboards with dynamic KPI visualisations and drill-downs by status, year, and geography.
+- Built interactive Power BI and Tableau dashboards with dynamic KPI visualisations and drill-downs by status, year, and geography — enabling data-driven decision-making across the organisation.
 - Performed in-depth data analysis on **300,000+ records** using SQL and Excel; conducted anomaly detection and validation to ensure data integrity.
 - Integrated multi-source data (SQL + Excel) into a unified reporting layer, automating ETL workflows and **reducing manual reporting effort by 20%**.
 - Identified that campaigns under 60 days had a **74% higher success rate** — insight directly adopted by the strategy team.
@@ -72,7 +61,16 @@ I'm a data analyst and AI enthusiast from Mumbai with 10+ months of hands-on ind
 ### [Kickstarter Crowdfunding Dashboard](https://github.com/ManavKumar5)
 **Power BI · SQL · Excel**
 
-> End-to-end interactive dashboard tracking **$896K in funding across 300,000+ records**. Full data cleaning, validation, and anomaly detection pipeline. Identified a 60% overall success rate to guide campaign strategy.
+> End-to-end interactive dashboard tracking $896K in funding across 300,000+ records. Full data cleaning, validation, and anomaly detection pipeline. Identified a 60% overall success rate and key campaign timing insights to guide strategy.
+
+**📊 Project Impact**
+
+| Metric | Result |
+|---|---|
+| Records analysed | 300,000+ |
+| Funding tracked | $896K |
+| Overall campaign success rate | 60% |
+| Campaigns under 60 days success premium | 74% higher success rate |
 
 `Power BI` `SQL` `ETL` `Data Cleaning` `KPI Tracking`
 
@@ -103,6 +101,7 @@ I'm a data analyst and AI enthusiast from Mumbai with 10+ months of hands-on ind
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### BI & Visualisation
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -111,16 +110,18 @@ I'm a data analyst and AI enthusiast from Mumbai with 10+ months of hands-on ind
 ![Seaborn](https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ML / NLP
+### ML / NLP / Statistics
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge)
 
 ### Generative AI
 ![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6E4BEC?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
 ### Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
