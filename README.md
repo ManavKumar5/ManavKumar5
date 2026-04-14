@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experience across the full data stack — from SQL querying and ETL pipelines to Power BI dashboards and NLP-driven analysis. Recently I've been building with LLMs and RAG systems, including a live AI sales intelligence app powered by Llama 3.3 (70B).
+I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experience across the full data stack — from SQL querying and ETL pipelines to Power BI dashboards and NLP-driven analysis. Recently I've been building with LLMs, including a live AI sales intelligence app powered by Llama 3.3 (70B).
 
 - 🔭 Currently **open to Data Analyst / AI roles**
 - 💡 I love turning messy data into decisions stakeholders actually use
