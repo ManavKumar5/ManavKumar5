@@ -1,7 +1,7 @@
 <h1 align="center">Namaste, I'm Manav Kumar 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Business Analyst · AI </b><br>
+  <b>Data Analyst · Business Analyst · AI enthusiast </b><br>
   Mumbai, India · B.Sc Computer Science, SIES College  · Open to opportunities
 </p>
 
