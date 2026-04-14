@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kumarmannavv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ManavKumar5">
+  <a href="https://github.com/ManavKumar5?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:manavrameshkumar@gmail.com">
