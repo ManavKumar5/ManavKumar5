@@ -49,7 +49,7 @@ I specialize in transforming data into actionable insights, building intelligent
 
 ##  Projects Showcase
 
-|  Google Play Sentiment Analysis | |  TCS Stock Forecasting |  Customer Satisfaction Prediction |
+| QueryMind | |  Google Play Sentiment Analysis  |  Customer Satisfaction Prediction |
 
 
 > Visit my [repositories](https://github.com/ManavKumar5?tab=repositories) to see the code and results!
