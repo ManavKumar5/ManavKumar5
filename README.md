@@ -57,7 +57,7 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ---
 
-### [Kickstarter Crowdfunding Dashboard]()
+### Kickstarter Crowdfunding Dashboard
 **Power BI · SQL · Excel**
 
 > End-to-end interactive dashboard tracking $896K in funding across 300,000+ records. Full data cleaning, validation, and anomaly detection pipeline. Identified a 60% overall success rate and key campaign timing insights to guide strategy.
