@@ -1,8 +1,8 @@
 <h1 align="center">Namaste, I'm Manav Kumar 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Business Analyst · Generative AI </b><br>
-  Mumbai, India · B.Sc Computer Science, SIES College (CGPA 7.78) · Open to opportunities
+  <b>Data Analyst · Business Analyst · AI </b><br>
+  Mumbai, India · B.Sc Computer Science, SIES College  · Open to opportunities
 </p>
 
 <p align="center">
