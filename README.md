@@ -1,66 +1,151 @@
-<h1 align="center"> Namaste, I'm Manav!</h1>
+<h1 align="center">Namaste, I'm Manav Kumar 👋</h1>
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNjc2h3MHp4Y2pwMW5sMmcxZzBpbHB5YnF0YWdrOGI1eWowZDg1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDMHgvx8N9U7UUlczQ/giphy.gif" width="150"/>
+  <b>Data Analyst · NLP · Generative AI · RAG Systems</b><br>
+  Mumbai, India · B.Sc Computer Science, SIES College (CGPA 7.78) · Open to opportunities
 </p>
 
-<h3 align="center"> Data Analytics Enthusiast |  AI-Driven Data Scientist |  Generative AI Explorer</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumarmannavv/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ManavKumar5">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:manavrameshkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-##  About Me
+## About Me
 
-Hi, I'm Manav — a **data analytics enthusiast** and **AI-driven Data Scientist** passionate about solving real-world problems using the power of data, machine learning, and generative AI.
+I'm a data analyst and AI enthusiast from Mumbai with 10+ months of hands-on industry experience at Ai Variant. I work across the full data stack — from SQL querying and ETL pipelines to Power BI dashboards and NLP-driven analysis. Recently I've been building with LLMs and RAG systems, including a live AI sales intelligence app powered by Llama 3.3 (70B).
 
-I specialize in transforming data into actionable insights, building intelligent systems, and experimenting with cutting-edge technologies like RAG and LLMs.
+- 🔭 Currently working as **Data & NLP Analyst at TrendLytics**
+- 🌱 Exploring **LangChain agents, vector databases (Pinecone / Weaviate), and production RAG**
+- 💡 I love turning messy data into decisions stakeholders actually use
+- 📫 Reach me at **manavrameshkumar@gmail.com**
 
 ---
 
-##  Tech Stack
+## 🏆 Key Impact
 
-###  **Languages**
+| Metric | Result |
+|---|---|
+| Records analysed | 300,000+ |
+| Manual reporting reduction | 20% |
+| Campaign success insight | 74% higher success rate for campaigns < 60 days |
+| Funding tracked (Kickstarter dashboard) | $896K |
+
+---
+
+## 💼 Work Experience
+
+### Data & NLP Analyst — TrendLytics, Bangalore
+**Jun 2025 · 1 month**
+- Built a Python ETL pipeline to collect, transform, and structure unstructured web data into a queryable database.
+- Applied TF-IDF NLP analysis on text corpora to deliver actionable strategic insights to the team.
+
+### Data Analyst Intern — Ai Variant, Mumbai
+**Aug 2024 – May 2025 · 10 months**
+- Built interactive Power BI and Tableau dashboards with dynamic KPI visualisations and drill-downs by status, year, and geography.
+- Performed in-depth data analysis on **300,000+ records** using SQL and Excel; conducted anomaly detection and validation to ensure data integrity.
+- Integrated multi-source data (SQL + Excel) into a unified reporting layer, automating ETL workflows and **reducing manual reporting effort by 20%**.
+- Identified that campaigns under 60 days had a **74% higher success rate** — insight directly adopted by the strategy team.
+- Presented weekly findings to a cross-functional team of 7, translating complex trends into clear, actionable recommendations.
+
+---
+
+## 🚀 Projects
+
+### [QueryMind — AI Sales Intelligence](https://github.com/ManavKumar5)
+**Python · Streamlit · PostgreSQL · Groq API · Llama 3.3 (70B) · Plotly · [🔗 Live App](https://github.com/ManavKumar5)**
+
+> AI-powered sales analytics app that converts plain English into PostgreSQL queries — auto-renders Plotly charts across **50,000 records, 16 cities, and 8 product categories**. Deployed live on Streamlit Community Cloud.
+
+`RAG` `LLM` `Groq API` `PostgreSQL` `Streamlit` `Plotly`
+
+---
+
+### [Kickstarter Crowdfunding Dashboard](https://github.com/ManavKumar5)
+**Power BI · SQL · Excel**
+
+> End-to-end interactive dashboard tracking **$896K in funding across 300,000+ records**. Full data cleaning, validation, and anomaly detection pipeline. Identified a 60% overall success rate to guide campaign strategy.
+
+`Power BI` `SQL` `ETL` `Data Cleaning` `KPI Tracking`
+
+---
+
+### [Google Play Store Sentiment Analysis](https://github.com/ManavKumar5)
+**Python · NLP · Scikit-learn**
+
+> NLP pipeline classifying app review sentiment using TF-IDF + Logistic Regression / Naïve Bayes. Delivered actionable insights on user satisfaction trends with strong F1 scores.
+
+`NLP` `TF-IDF` `Logistic Regression` `Scikit-learn` `Seaborn`
+
+---
+
+### [ML Automation Pipeline](https://github.com/ManavKumar5)
+**Python · Streamlit · Scikit-learn**
+
+> Self-service ML tool for CSV datasets — automates ETL preprocessing, feature engineering, and model training with a clean multi-page UI, enabling non-technical stakeholders to run models independently.
+
+`AutoML` `Streamlit` `Feature Engineering` `Scikit-learn`
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM0dTFnY2g2YWluZWFtcDF1dWw5bXBmN2J5ZnA2b20ybmRoZmNzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif" align="right" />
-
-###  **Frameworks & Libraries**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge)
-
-###  **Tools**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-###  **ML/DL**
+### BI & Visualisation
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ML / NLP
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
-![Neural Network](https://img.shields.io/badge/Neural%20Network-1E1E1E?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
 
-###  **Generative AI**
-- RAG (Retrieval-Augmented Generation)
-- Chatbots
-- LLM (Large Language Models)
+### Generative AI
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E4BEC?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
 
----
-
-##  Projects Showcase
-
-| QueryMind | |  Google Play Sentiment Analysis  |  Customer Satisfaction Prediction |
-
-
-> Visit my [repositories](https://github.com/ManavKumar5?tab=repositories) to see the code and results!
+### Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-##  Let’s Connect!
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarmannavv/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManavKumar5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManavKumar5&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavKumar5&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
- *Always eager to learn, build, and collaborate on exciting AI and data-driven projects!*
+## 🎓 Education & Certifications
+
+**B.Sc Computer Science** — SIES College of Arts, Science and Commerce, Mumbai · 2021–2024 · CGPA: 7.78/10
+
+- 📜 Data Analytics Certification — Excelr Solutions (2025)
+- 📜 Introduction to Generative AI — Coursera (2024)
+- 📜 Introduction to Software Engineering — Coursera (2025)
+
+---
+
+*Always eager to learn, build, and collaborate on exciting AI and data-driven projects!*
