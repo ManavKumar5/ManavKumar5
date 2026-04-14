@@ -75,21 +75,22 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ---
 
-### [Google Play Store Sentiment Analysis](https://github.com/ManavKumar5/Google-Playstore-Sentiment-Analysis)
-**Python · NLP · Scikit-learn**
-
-> NLP pipeline classifying app review sentiment using TF-IDF + Logistic Regression / Naïve Bayes. Delivered actionable insights on user satisfaction trends with strong F1 scores.
-
-`NLP` `TF-IDF` `Logistic Regression` `Scikit-learn` `Seaborn`
-
----
-
 ### [ML Automation Pipeline](https://github.com/ManavKumar5/ML-Automation)
 **Python · Streamlit · Scikit-learn**
 
 > Self-service ML tool for CSV datasets — automates ETL preprocessing, feature engineering, and model training with a clean multi-page UI, enabling non-technical stakeholders to run models independently.
 
 `AutoML` `Streamlit` `Feature Engineering` `Scikit-learn`
+
+---
+
+
+### [Google Play Store Sentiment Analysis](https://github.com/ManavKumar5/Google-Playstore-Sentiment-Analysis)
+**Python · NLP · Scikit-learn**
+
+> NLP pipeline classifying app review sentiment using TF-IDF + Logistic Regression / Naïve Bayes. Delivered actionable insights on user satisfaction trends with strong F1 scores.
+
+`NLP` `TF-IDF` `Logistic Regression` `Scikit-learn` `Seaborn`
 
 ---
 
