@@ -129,15 +129,6 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManavKumar5&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavKumar5&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🎓 Education & Certifications
 
 **B.Sc Computer Science** — SIES College of Arts, Science and Commerce, Mumbai · 2021–2024 · CGPA: 7.78/10
