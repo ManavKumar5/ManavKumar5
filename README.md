@@ -1,7 +1,7 @@
 <h1 align="center">Namaste, I'm Manav Kumar 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · NLP · Generative AI · RAG Systems</b><br>
+  <b>Data Analyst · Business Analyst · Generative AI </b><br>
   Mumbai, India · B.Sc Computer Science, SIES College (CGPA 7.78) · Open to opportunities
 </p>
 
@@ -23,8 +23,7 @@
 
 I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experience across the full data stack — from SQL querying and ETL pipelines to Power BI dashboards and NLP-driven analysis. Recently I've been building with LLMs and RAG systems, including a live AI sales intelligence app powered by Llama 3.3 (70B).
 
-- 🔭 Currently **open to Data Analyst / NLP / AI roles**
-- 🌱 Exploring **LangChain agents, vector databases (Pinecone / Weaviate), and production RAG**
+- 🔭 Currently **open to Data Analyst / AI roles**
 - 💡 I love turning messy data into decisions stakeholders actually use
 - 📫 Reach me at **manavrameshkumar@gmail.com**
 
@@ -49,8 +48,8 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ## 🚀 Projects
 
-### [QueryMind — AI Sales Intelligence](https://github.com/ManavKumar5)
-**Python · Streamlit · PostgreSQL · Groq API · Llama 3.3 (70B) · Plotly · [🔗 Live App](https://github.com/ManavKumar5)**
+### [QueryMind — AI Sales Intelligence](https://github.com/ManavKumar5/QueryMind)
+**Python · Streamlit · PostgreSQL · Groq API · Llama 3.3 (70B) · Plotly · [🔗 Live App](https://querymind-14.streamlit.app/)**
 
 > AI-powered sales analytics app that converts plain English into PostgreSQL queries — auto-renders Plotly charts across **50,000 records, 16 cities, and 8 product categories**. Deployed live on Streamlit Community Cloud.
 
@@ -58,7 +57,7 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ---
 
-### [Kickstarter Crowdfunding Dashboard](https://github.com/ManavKumar5)
+### [Kickstarter Crowdfunding Dashboard]()
 **Power BI · SQL · Excel**
 
 > End-to-end interactive dashboard tracking $896K in funding across 300,000+ records. Full data cleaning, validation, and anomaly detection pipeline. Identified a 60% overall success rate and key campaign timing insights to guide strategy.
@@ -76,7 +75,7 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ---
 
-### [Google Play Store Sentiment Analysis](https://github.com/ManavKumar5)
+### [Google Play Store Sentiment Analysis](https://github.com/ManavKumar5/Google-Playstore-Sentiment-Analysis)
 **Python · NLP · Scikit-learn**
 
 > NLP pipeline classifying app review sentiment using TF-IDF + Logistic Regression / Naïve Bayes. Delivered actionable insights on user satisfaction trends with strong F1 scores.
@@ -85,7 +84,7 @@ I'm a data analyst and AI enthusiast from Mumbai with hands-on industry experien
 
 ---
 
-### [ML Automation Pipeline](https://github.com/ManavKumar5)
+### [ML Automation Pipeline](https://github.com/ManavKumar5/ML-Automation)
 **Python · Streamlit · Scikit-learn**
 
 > Self-service ML tool for CSV datasets — automates ETL preprocessing, feature engineering, and model training with a clean multi-page UI, enabling non-technical stakeholders to run models independently.
